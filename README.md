@@ -1,2 +1,1 @@
-# react-antd-admin
-基于React和Antd的后台管理模版
+# 尚硅谷学习项目（https://www.bilibili.com/video/BV1i4411N7Qc?p=8）
